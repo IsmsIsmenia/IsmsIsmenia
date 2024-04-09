@@ -1,7 +1,7 @@
 ### Olá eu sou a Ismênia 🌺👋
 
-- 🔭 I’m currently working wordpress helping my brother, but i like doing personal projects to train programming languages i study.
-- 🌱 I’m currently learning java, php and python
+- 🔭 I'm currently I'm Informative technique and I work helping my brother with Microsoft Power Plataform technologies. However, I continue studying programming languages back-End.
+- 🌱 I’m currently learning php/Laravel, nodejs and python
 
 #### 📈 Stats
 <div>
