@@ -2,7 +2,7 @@
 ## Olá eu sou a Ismênia 🌺👋 
 I am currently an IT technician, and work with low code technologies using Microsoft Power Platform. However, my passion is programming, so I also study programming languages ​​and frameworks such as Laravel, node.js and python.
 
-## Linguagens que  utilizo:
+## Linguagens e frameworks que  utilizo:
 <div>
    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
