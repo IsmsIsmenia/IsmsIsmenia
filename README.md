@@ -1,5 +1,5 @@
 
-## Olá eu sou a Ismênia 🌺👋 
+## Olá eu sou a Ismênia 💐💙 
 I am currently an IT technician, and work with low code technologies using Microsoft Power Platform. However, my passion is programming, so I also study programming languages ​​and frameworks such as Laravel, node.js and python.
 
 ## Linguagens e frameworks que  utilizo:
